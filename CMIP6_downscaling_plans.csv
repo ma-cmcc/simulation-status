@@ -20,6 +20,9 @@ AFR-12,MOHC,E. Buonomo,HadREM3-GA7-05,MPI-ESM1-2-HR,r1i1p1f1,historical,planned,
 AFR-12,MOHC,E. Buonomo,HadREM3-GA7-05,MPI-ESM1-2-HR,r1i1p1f1,ssp370,planned,2026-09,#CORDEX-CORE
 AFR-12,MOHC,E. Buonomo,HadREM3-GA7-05,NorESM2-MM,r1i1p1f1,historical,planned,2026-09,#CORDEX-CORE
 AFR-12,MOHC,E. Buonomo,HadREM3-GA7-05,NorESM2-MM,r1i1p1f1,ssp370,planned,2026-09,#CORDEX-CORE
+AFR-12,CLM-com-CMCC,M. Adinolfi/A. Campanale/M. Raffa/A. Vichot Llano/S. Oliva,ICON-CLM,ERA5,,evaluation,running,2026-09,#CORDEX-CORE
+AFR-12,CLMcom-CMCC,M. Adinolfi/A. Campanale/M. Raffa/A. Vichot Llano/S. Oliva,ICON-CLM,EC-Earth3-Veg,r1i1p1f1,historical,planned,2026-12,#CORDEX-CORE
+AFR-12,CLMcom-CMCC,M. Adinolfi/A. Campanale/M. Raffa/A. Vichot Llano/S. Oliva,ICON-CLM,EC-Earth3-Veg,r1i1p1f1,ssp370,planned,2027-03,#CORDEX-CORE
 AFR-18,ULL,J.C. Perez / A. Gonzalez,WRF461U,ERA5,,evaluation,running,2026-07,#CORDEX-CORE
 AFR-18,IFCA,J. Milovac / J. Fernandez,WRF461U,EC-Earth3-Veg,r1i1p1f1,historical,planned,2026-12,#CORDEX-CORE
 AFR-18,IFCA,J. Milovac / J. Fernandez,WRF461U,EC-Earth3-Veg,r1i1p1f1,ssp370,planned,2026-12,#CORDEX-CORE
